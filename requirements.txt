@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+faiss-cpu  # Or faiss-gpu if using GPU
+numpy
+pymongo
+python-dotenv
+pydantic
